@@ -1,1 +1,1 @@
-# Find-Digits-algo
+# Find-Digits-algo This code solves the Find Digits problem by counting how many digits in a number `n` evenly divide `n`. The `findDigits` function iterates through each digit, skips zeros, and increments a counter whenever the digit divides the original number without a remainder.
